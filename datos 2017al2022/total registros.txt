@@ -1,0 +1,4 @@
+separador de decimas punto
+2018-1  5187 datos
+2018-2  16974 datos
+2019-1  5687 datos
